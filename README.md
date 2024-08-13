@@ -5,7 +5,10 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
-[2024.05.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers), CVPR 2024 (3 papers), ICML 2024 (13 papers), IJCAI 2024 (5 papers).
+[2024.08.13] Add  SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking
+<p style="color:red">这是红色文本</p>
+
+[2024.05.29] Update SNN-related papers in ICLR 2024 (17 papers), AAAI 2024 (8 papers), CVPR 2024 (3 papers), ICML 2024 ( <span style=" color: red;"> 13 </span> papers), IJCAI 2024 (5 papers).
 
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
