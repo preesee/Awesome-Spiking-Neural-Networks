@@ -32,7 +32,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 - Learning a Spiking Neural Network for Efficient Image Deraining (**IJCAI 2024**). [[code](https://github.com/MingTian99/ESDNet)] 
 - LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization (**IJCAI 2024**). [[paper](https://arxiv.org/pdf/2401.14652)] 
 - Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/35073)] 
-- Towards efficient deep spiking neural networks construction with spiking activity based pruning (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33505)]
+- Towards efficient deep spiking neural networks construction with spiking activity-based pruning (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33505)]
 - SpikeLLM: Scaling up Spiking Neural Network to Large Language Models via Saliency-based Spiking (**ICML 2024**). [[paper](https://arxiv.org/pdf/2407.04752)]  $\color{red}{[2024.08.13]}$
 - Efficient and Effective Time-Series Forecasting with Spiking Neural Networks (**ICML 2024**). [[paper](https://arxiv.org/pdf/2402.01533)] 
 - Autaptic Synaptic Circuit Enhances Spatio-temporal Predictive Learning of Spiking Neural Networks (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33269)] 
