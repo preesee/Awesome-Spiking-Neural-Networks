@@ -6,6 +6,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ## News
 
+$\color{red}{[2024.10.15]}$ Update BRAINTRANSFORMERS: SNN-LLM.
 
 $\color{red}{[2024.10.15]}$ Update SNN-related papers in ECCV 2024 (8 papers).
 
