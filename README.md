@@ -5,6 +5,8 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
+
+
 $\color{red}{[2024.10.15]}$ Update SNN-related papers in ECCV 2024 (8 papers).
 
 $\color{red}{[2024.09.13]}$ SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network $\color{red}{ACL +1}$  [[paper](https://arxiv.org/pdf/2408.00788)]
@@ -92,6 +94,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 
 
 **Arxiv**
+- BRAINTRANSFORMERS: SNN-LLM. [[paper](https://arxiv.org/pdf/2410.14687)][[code](https://github.com/LumenScopeAI/BrainTransformers-SNN-LLM)]
 - Q-SNNs: Quantized Spiking Neural Networks. [[paper](https://arxiv.org/pdf/2406.13672)]
 - Scalable MatMul-free Language Modeling. [[paper](https://arxiv.org/pdf/2406.02528)] [[code](https://github.com/ridgerchu/matmulfreellm)]
 - QKFormer: Hierarchical Spiking Transformer using Q-K Attention. [[paper](https://arxiv.org/pdf/2403.16552.pdf)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
