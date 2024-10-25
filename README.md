@@ -5,7 +5,7 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
-[2024.10.15] Update SNN-related papers in ECCV 2024 (8 papers).
+$\color{red}{[2024.10.15]} Update SNN-related papers in ECCV 2024 (8 papers).
 
 $\color{red}{[2024.09.13]}$ SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network $\color{red}{ACL +1}$  [[paper](https://arxiv.org/pdf/2408.00788)]
 
