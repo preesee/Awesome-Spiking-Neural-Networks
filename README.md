@@ -1,3 +1,5 @@
+
+
 # Awesome Spiking Neural Networks[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Collect some spiking neural network papers & codes.  (**Actively keep updating**)
@@ -5,6 +7,9 @@ Collect some spiking neural network papers & codes.  (**Actively keep updating**
 If you own or find some overlooked SNN papers, you can add them to this document by pull request. 
 
 ## News
+
+
+
 
 $\color{red}{[2024.10.15]}$ Update BRAINTRANSFORMERS: SNN-LLM.
 
@@ -26,6 +31,28 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 
 
 ## Papers
+### 2025 
+# Paper List
+
+
+
+
+$\color{red}{[2025.3.1]}$ From RAG to Memory: Non-Parametric Continual Learning for Large Language Models $\color{red}{【HippoRAG2】}$  [[paper](https://arxiv.org/pdf/2502.14802)]
+
+$\color{red}{[2025.1.25]}$ Harder Tasks Need More Experts: Dynamic Routing in MoE Models $\color{red}{【ACL +1】}$  [[paper](https://arxiv.org/pdf/2403.07652)] [[code](https://github.com/ZhenweiAn/Dynamic_MoE)]
+
+$\color{red}{[2025.1.13]}$ Deepseekmoe: Towards ultimate expert specialization in mixture-of-experts language models $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/pdf/2401.06066)]
+
+$\color{red}{[2025.1.13]}$ Learning ASaparse Transformer Network for Effective Image Deraining $\color{red}{【Sparse Transfrormer】}$  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html)]
+
+$\color{red}{[2025.1.16]}$ Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/abs/2502.11089)]
+
+$\color{red}{[2025.1.16]}$ Multi-matrix Factorization Attention $\color{red}{【Sparse Attention MFA】}$  [[paper](https://arxiv.org/abs/2412.19255)]
+
+$\color{red}{[2025.1.22]}$ DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning $\color{red}{【Deepseek-R】}$  [[paper](https://arxiv.org/pdf/2501.12948?)]
+
+
+
 ### 2024
 
 **Review**
