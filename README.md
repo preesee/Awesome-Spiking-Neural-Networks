@@ -36,7 +36,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 ### Nanhu Paper List
 
 
-
+- $\color{red}{[2025.3.6]}$ Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/abs/2503.01307)]
 - $\color{red}{[2025.3.6]}$ Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2412.08457?)]
 - $\color{red}{[2025.3.1]}$ From RAG to Memory: Non-Parametric Continual Learning for Large Language Models $\color{red}{【HippoRAG2】}$  [[paper](https://arxiv.org/pdf/2502.14802)]
 - $\color{red}{[2025.1.25]}$ Harder Tasks Need More Experts: Dynamic Routing in MoE Models $\color{red}{【ACL +1】}$  [[paper](https://arxiv.org/pdf/2403.07652)] [[code](https://github.com/ZhenweiAn/Dynamic_MoE)]
