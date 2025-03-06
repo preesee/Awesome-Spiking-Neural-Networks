@@ -37,19 +37,19 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 
 
 
-$\color{red}{[2025.3.1]}$ From RAG to Memory: Non-Parametric Continual Learning for Large Language Models $\color{red}{【HippoRAG2】}$  [[paper](https://arxiv.org/pdf/2502.14802)]
+- $\color{red}{[2025.3.1]}$ From RAG to Memory: Non-Parametric Continual Learning for Large Language Models $\color{red}{【HippoRAG2】}$  [[paper](https://arxiv.org/pdf/2502.14802)]
 
-$\color{red}{[2025.1.25]}$ Harder Tasks Need More Experts: Dynamic Routing in MoE Models $\color{red}{【ACL +1】}$  [[paper](https://arxiv.org/pdf/2403.07652)] [[code](https://github.com/ZhenweiAn/Dynamic_MoE)]
+- $\color{red}{[2025.1.25]}$ Harder Tasks Need More Experts: Dynamic Routing in MoE Models $\color{red}{【ACL +1】}$  [[paper](https://arxiv.org/pdf/2403.07652)] [[code](https://github.com/ZhenweiAn/Dynamic_MoE)]
 
-$\color{red}{[2025.1.13]}$ Deepseekmoe: Towards ultimate expert specialization in mixture-of-experts language models $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/pdf/2401.06066)]
+- $\color{red}{[2025.1.13]}$ Deepseekmoe: Towards ultimate expert specialization in mixture-of-experts language models $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/pdf/2401.06066)]
 
-$\color{red}{[2025.1.13]}$ Learning ASaparse Transformer Network for Effective Image Deraining $\color{red}{【Sparse Transfrormer】}$  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html)]
+- $\color{red}{[2025.1.13]}$ Learning ASaparse Transformer Network for Effective Image Deraining $\color{red}{【Sparse Transfrormer】}$  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html)]
 
-$\color{red}{[2025.1.16]}$ Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/abs/2502.11089)]
+- $\color{red}{[2025.1.16]}$ Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention $\color{red}{【Deepseek】}$  [[paper](https://arxiv.org/abs/2502.11089)]
 
-$\color{red}{[2025.1.16]}$ Multi-matrix Factorization Attention $\color{red}{【Sparse Attention MFA】}$  [[paper](https://arxiv.org/abs/2412.19255)]
+- $\color{red}{[2025.1.16]}$ Multi-matrix Factorization Attention $\color{red}{【Sparse Attention MFA】}$  [[paper](https://arxiv.org/abs/2412.19255)]
 
-$\color{red}{[2025.1.22]}$ DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning $\color{red}{【Deepseek-R】}$  [[paper](https://arxiv.org/pdf/2501.12948?)]
+- $\color{red}{[2025.1.22]}$ DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning $\color{red}{【Deepseek-R】}$  [[paper](https://arxiv.org/pdf/2501.12948?)]
 
 
 
