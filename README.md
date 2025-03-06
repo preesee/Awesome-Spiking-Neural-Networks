@@ -36,6 +36,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 
 
 
+- $\color{red}{[2025.3.6]}$ Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2412.08457?)]
 
 - $\color{red}{[2025.3.1]}$ From RAG to Memory: Non-Parametric Continual Learning for Large Language Models $\color{red}{【HippoRAG2】}$  [[paper](https://arxiv.org/pdf/2502.14802)]
 
