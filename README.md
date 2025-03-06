@@ -32,7 +32,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 
 ## Papers
 ### 2025 
-# Paper List
+### Paper List
 
 
 
