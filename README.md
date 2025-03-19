@@ -34,9 +34,9 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 ### 2025 
 
 ### Nanhu Paper List
-- $\color{red}{[2025.3.19]}$ O1 Replication Journey: A Strategic Progress Report- Part 1 $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/abs/2503.01307)]
-- $\color{red}{[2025.3.19]}$ The Lessons of Developing Process Reward Modelsin Mathematical Reasoning $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/abs/2503.01307)]
-- $\color{red}{[2025.3.6]}$ Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/abs/2503.01307)]
+- $\color{red}{[2025.3.19]}$ O1 Replication Journey: A Strategic Progress Report- Part 1 $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2503.01307)]
+- $\color{red}{[2025.3.19]}$ The Lessons of Developing Process Reward Modelsin Mathematical Reasoning $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2501.07301?)]
+- $\color{red}{[2025.3.6]}$ Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2410.18982)]
 
 - 
 - $\color{red}{[2025.3.6]}$ Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2412.08457?)]
