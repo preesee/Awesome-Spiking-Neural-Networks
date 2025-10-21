@@ -34,6 +34,8 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 ### 2025 
 
 ### Nanhu Paper List
+- $\color{red}{[2025.10.19]}$ SPATIO-TEMPORAL APPROXIMATION:A TRAININGFREE SNN CONVERSION FOR TRANSFORMERS $\color{red}{【ANN2SNN】}$  [[paper](https://openreview.net/pdf?id=XrunSYwoLr)]
+- $\color{red}{[2025.8.20]}$ Differential Coding for Training-Free ANN-to-SNN Conversion $\color{red}{【ANN2SNN】}$  [[paper](https://arxiv.org/pdf/2503.00301v3)]
 - $\color{red}{[2025.3.19]}$ O1 Replication Journey: A Strategic Progress Report- Part 1 $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2503.01307)]
 - $\color{red}{[2025.3.19]}$ The Lessons of Developing Process Reward Modelsin Mathematical Reasoning $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2501.07301?)]
 - $\color{red}{[2025.3.6]}$ Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2410.18982)]
