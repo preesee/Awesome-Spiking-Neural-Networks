@@ -34,6 +34,19 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 ### 2025 
 
 ### Nanhu Paper List
+
+*******************************************************
+### ANN2SNN Paper List  
+ -  SPATIO-TEMPORAL APPROXIMATION: A TRAININGFREE SNN $\color{red}CONVERSION$ FOR TRANSFORMERS $\color{red}{【ANN2SNN】}$  [[paper](https://openreview.net/pdf?id=XrunSYwoLr)] [[code](https://github.com/ViviaHu/STA)]
+ -  Differential Coding for Training-Free ANN-to-SNN $\color{red}Conversion$
+ $\color{red}{【ANN2SNN】}$  [[paper](https://arxiv.org/pdf/2503.00301v3)] [[code](https://github.com/h-z-h-cell/ANN-to-SNN-DCGS  )]
+- Optimal ANN-SNN $\color{red}Conversion$ for High-accuracy and Ultra-low-latency Spiking Neural Networks [[paper](https://openreview.net/forum?id=7B3IJMM1k_M)] [[code](https://github.com/putshua/SNN-conversion-QCFS)]
+- SpikeZIP-TF: $\color{red}Conversion$ is All You Need for Transformer-based SNN (**ICML 2024**).  $\color{red}{【ANN2SNN】}$[[paper](https://icml.cc/virtual/2024/poster/34194)]
+- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN $\color{red}Conversion$ Beyond ReLU Network (**ICML 2024**). $\color{red}{【ANN2SNN】}$ [[paper](https://icml.cc/virtual/2024/poster/33242)]
+- Adaptive Calibration: A Unified $Conversion$ Framework of Spiking Neural Networks (**AAAI 2025**).$\color{red}{【ANN2SNN】}$
+- Towards high-performance spiking transformers from ann to snn conversion $\color{red}{【ANN2SNN】}$ [[paper](https://arxiv.org/pdf/2502.211934)]
+****************************************************
+
 - $\color{red}{[2025.10.19]}$ SPATIO-TEMPORAL APPROXIMATION:A TRAININGFREE SNN CONVERSION FOR TRANSFORMERS $\color{red}{【ANN2SNN】}$  [[paper](https://openreview.net/pdf?id=XrunSYwoLr)]
 - $\color{red}{[2025.8.20]}$ Differential Coding for Training-Free ANN-to-SNN Conversion $\color{red}{【ANN2SNN】}$  [[paper](https://arxiv.org/pdf/2503.00301v3)]
 - $\color{red}{[2025.3.19]}$ O1 Replication Journey: A Strategic Progress Report- Part 1 $\color{red}{【Symbolic Reasoning】}$  [[paper](https://arxiv.org/pdf/2503.01307)]
