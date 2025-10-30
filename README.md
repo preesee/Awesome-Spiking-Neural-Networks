@@ -68,7 +68,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 - ALADE-SNN: Adaptive Logit Alignment in Dynamically Expandable Spiking Neural Networks for Class Incremental Learning (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.12696)]
 - Efficient Spike-driven Transformer For High-performance Image Segmentation (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2412.14587)] [[code](https://github.com/BICLab/Spike2Former)]
 - Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism (**AAAI 2025**).
-- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (**AAAI 2025**).
+- Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks (**AAAI 2025**).$\color{red}{【ANN2SNN】}$
 - Towards More Discriminative Feature Learning in SNNs with Temporal-Self-Erasing Supervision (**AAAI 2025**).
 - FSTA-SNN: Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks (**AAAI 2025**).[[paper](https://arxiv.org/pdf/2501.14744)] [[code](https://github.com/yukairong/FSTA-SNN)]
 
@@ -106,9 +106,9 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 - High-Performance Temporal Reversible Spiking Neural Networks with $O(L)$ Training Memory and $O(1)$ Inference Cost (**ICML 2024**). [[paper](https://arxiv.org/pdf/2405.16466)]
 - Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/32674)]
 -  $\color{red}{SpikeLM}$: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/35024)]
-- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/33242)]
+- Sign Gradient Descent-based Neuronal Dynamics: ANN-to-SNN Conversion Beyond ReLU Network (**ICML 2024**). $\color{red}{【ANN2SNN】}$ [[paper](https://icml.cc/virtual/2024/poster/33242)]
 - Enhancing Adversarial Robustness in SNNs with Sparse Gradients (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/34066)]
-- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (**ICML 2024**). [[paper](https://icml.cc/virtual/2024/poster/34194)]
+- SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN (**ICML 2024**).  $\color{red}{【ANN2SNN】}$[[paper](https://icml.cc/virtual/2024/poster/34194)]
 - Are Conventional SNNs Really Efficient? A Perspective from Network Quantization  (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2311.10802)]
 - SFOD: Spiking Fusion Object Detector (**CVPR 2024**). [[paper](https://arxiv.org/pdf/2403.15192)] [[code](https://github.com/yimeng-fan/SFOD)]
 - SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks (**CVPR 2024**). [[paper](https://arxiv.org/abs/2403.14302)] [[code](https://github.com/xyshi2000/SpikingResformer)]
@@ -116,7 +116,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 - Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=eoSeaK4QJo&referrer=%5Bthe%20profile%20of%20Zecheng%20Hao%5D(%2Fprofile%3Fid%3D~Zecheng_Hao1))]
 - Online Stabilization of Spiking Neural Networks  (**ICLR 2024**). [[paper](https://openreview.net/forum?id=CIj1CVbkpr)]
 - SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition (**ICLR 2024**). [[paper](https://arxiv.org/pdf/2310.07189.pdf)]
-- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers  (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=XrunSYwoLr)]
+- Spatio-Temporal Approximation: A Training-Free SNN Conversion for Transformers  (**ICLR 2024**). $\color{red}{【ANN2SNN】}$ [[paper](https://openreview.net/pdf?id=XrunSYwoLr)]
 - Sparse Spiking Neural Network: Exploiting Heterogeneity in Timescales for Pruning Recurrent SNN (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=0jsfesDZDq)]
 - Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=4r2ybzJnmN)] [[code](https://github.com/Thvnvtos/SNN-delays)]
 - Threaten Spiking Neural Networks through Combining Rate and Temporal Information (**ICLR 2024**). [[paper](https://openreview.net/pdf?id=xv8iGxENyI)] [[code](https://github.com/hzc1208/HART_Attack)]
@@ -194,7 +194,7 @@ $\color{red}{[2024.08.13]}$ Add  SpikeLLM: Scaling up Spiking Neural Network to 
 - Spikformer: When Spiking Neural Network Meets Transformer (**ICLR 2023**) .[[paper](https://openreview.net/forum?id=frE4fUwz_h)] [[code](https://github.com/ZK-Zhou/spikformer)]
 - A Unified Framework of Soft Threshold Pruning (**ICLR 2023**). [[paper](https://openreview.net/forum?id=cCFqcrq0d8)] [[code](https://github.com/Yanqi-Chen/LATS)]
 - Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes (**ICLR 2023**). [[paper](https://openreview.net/forum?id=PFbzoWZyZRX)] [[code](https://github.com/hzc1208/ANN2SNN_COS)]
-- Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
+- Reducing ANN-SNN Conversion Error through Residual Membrane Potential (**AAAI 2023**). $\color{red}{【ANN2SNN】}$ [[paper](https://arxiv.org/abs/2302.02091)] [[code](https://github.com/hzc1208/ANN2SNN_SRP)]
 - Deep Spiking Neural Networks with High Representation Similarity Model Visual Pathways of Macaque and Mouse (**AAAI 2023**). [[paper](https://arxiv.org/abs/2303.06060)]
 - ESL-SNNs: An Evolutionary Structure Learning Strategy for Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2306.03693.pdf)]
 - Exploring Temporal Information Dynamics in Spiking Neural Networks (**AAAI 2023**). [[paper](https://arxiv.org/pdf/2211.14406.pdf)] [[code](https://github.com/Intelligent-Computing-Lab-Yale/Exploring-Temporal-Information-Dynamics-in-Spiking-Neural-Networks)]
